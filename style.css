@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(219, 5, 5);
+}
+
+#Cell {
+    color: rgb(107, 8, 199);
+}
+
+p {
+    color: rgb(35, 35, 128);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+a {
+    color: rgb(137, 4, 247);
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 10px;
+    color: white;
+    font-weight: 800;
+    border-radius: 10px;
+}
+
+.image-border {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-
+}
