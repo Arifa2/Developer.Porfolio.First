@@ -18,6 +18,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 80px;
 }
 
 .half-width {
@@ -27,7 +28,8 @@ section {
 }
 
 .half-width img {
-    width: 70%;
+    width: 90%;
+    padding-left: 10px;
 }
 
 a {
@@ -41,10 +43,18 @@ a {
     color: white;
     font-weight: 800;
     border-radius: 10px;
+    padding-right: 10px;
 }
 
 .image-border {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-
+
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: right 0;
 }
